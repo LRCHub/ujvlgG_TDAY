@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "君はスパークル",
   "base_artist": "≠ME",
-  "createdAt": "2025-12-13T09:44:53.574429Z",
+  "createdAt": "2026-03-24T10:22:41.286061Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -27,6 +27,15 @@
       "artist": "≠ME",
       "has_synced": false,
       "path": "select/pl_01_君はスパークル_≠ME.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "君はスパークル",
+      "artist": "≠ME",
+      "has_synced": true,
+      "path": "select/localdb_01_君はスパークル_≠ME.lrc",
+      "repo_name": "ujvlgG_TDAY"
     }
   ]
 }
